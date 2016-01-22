@@ -1,0 +1,6 @@
+bin
+node_modules
+public/js
+public/components
+public/bundle.js
+src/*/typings
