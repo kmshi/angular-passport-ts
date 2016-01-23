@@ -1,7 +1,6 @@
 {
     "compilerOptions": {
         "module": "umd",
-        "outDir":"../../public/js",
         "sourceMap": true
     }
 }

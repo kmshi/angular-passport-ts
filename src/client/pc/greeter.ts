@@ -1,4 +1,4 @@
-import todo = require("../common/todo");
+import todo = require("../../general/todo");
 
 export class Greeter
 {

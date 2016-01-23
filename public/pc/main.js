@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: 'js/client'
+    baseUrl: 'js/client/pc'
 });
 
 requirejs(['greeter'],function(greeter){

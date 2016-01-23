@@ -1,6 +1,8 @@
 bin
 node_modules
-public/js
+public/pc/js
+public/pc/bundle.js
+public/mobile/js
+public/mobile/bundle.js
 public/components
-public/bundle.js
-src/*/typings
+src/**/typings

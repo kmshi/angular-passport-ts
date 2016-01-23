@@ -1,6 +1,6 @@
 /// <reference path="typings/tsd.d.ts" />
 
-import todo = require("../common/todo");
+import todo = require("../general/todo");
 
 export class Server{
 	static execute():void{
